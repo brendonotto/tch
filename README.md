@@ -1,2 +1,2 @@
 # tch
-Touch utility clone for use on Windows
+Make new files on Windows. Mostly just for me to practice.
